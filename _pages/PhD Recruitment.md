@@ -20,7 +20,7 @@ toc: false
 - During the PhD period, students will be fully funded to spend **3-6 months** at the University of Liverpool for research exchange.
 - The working language is **English**, with an international research environment.
 - The group provides **full financial support** for at least **one international conference attendance** during the PhD study.
-- The group has published papers in top AI conferences and journals, including: ICLR, ICML, NeurIPS, ICCV, CVPR, AAI, TPAMI and other top-tier conferences and journals
+- The group has published papers in top AI conferences and journals, including: ICLR, ICML, NeurIPS, ICCV, CVPR, AAAI, TPAMI and other top-tier conferences and journals
 - Our research is well-funded through multiple sources such as the **National Natural Science Foundation of China**, **Jiangsu Provincial Key Funds**, and various other projects. Several outstanding PhD students have secured internships or positions at top companies (Alibaba, Baidu, Tencent, Ctrip) and world-renowned universities (e.g., CUHK).
 
 
@@ -39,8 +39,8 @@ Our team currently includes:
 
 - **Prof. Qiufeng Wang**, Professor
 - **Prof. Kaizhu Huang**, Professor
-- **Dr. Xi Yang**, Assistant Professor
-- **Dr. Xiaobo Jin**, Associate Professor
+- **Dr. Xi Yang**, Associate Professor
+- **Dr. Xiaobo Jin**, Senior Associate Professor
 
 Each PhD student will also be jointly supervised by a **University of Liverpool** faculty member.
 
