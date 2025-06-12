@@ -34,7 +34,7 @@ author_profile: true
     <img src="{{ site.url }}/images/profile.png" alt="Yijie Hu" style="width:100px; height:100px; object-fit:cover; ">
     <div>
         <h3 style="margin:0;">Yijie Hu</h3>
-        <p style="margin:0;">PhD Student, 2022 - Present<br>Research: Document Understanding</p>
+        <p style="margin:0;">PhD Student, 2022 - Present<br>Research: Large Language Model</p>
     </div>
 </div>
 
@@ -60,7 +60,7 @@ author_profile: true
     <img src="{{ site.url }}/images/profile.png" alt="Xueke Chi" style="width:100px; height:100px; object-fit:cover; ">
     <div>
         <h3 style="margin:0;">Xueke Chi</h3>
-        <p style="margin:0;">PhD Student, 2025 - Present<br>Research: Oracle recognition and generation</p>
+        <p style="margin:0;">Research Intern, 2025 - Present<br>Research: Oracle recognition and generation</p>
     </div>
 </div>
 
