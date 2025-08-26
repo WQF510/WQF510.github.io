@@ -31,6 +31,7 @@ Full scholarship Ph.D. positions avaliable. Please email me with a copy of your 
 
 News
 ======
+* Aug 2025: 1 paper has been accepted to EMNLP 2025.
 * May 2025: We welcome Dr. Jindong Wang to XJTLU for a guest talk.
 * Oct 2024: 1 paper has been accepted to ICLR 2025.
 * Nov 2024: 3 papers has been accepted to AAAI 2025 (2 Oral 1 Poster).
