@@ -33,7 +33,7 @@ D.F. Gomes, Z. Lin, **S. Luo**. Frontiers in Robotics and AI 7, 541661, 2020. <b
 <br /> -->
 
 
-# Oracle
+# Document Intelligence
 <!-- <img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/research/simulation_GelSight.gif" alt="...">
 Generation of gelsight tactile images for sim2real learning <br />
 D.F. Gomes, P. Paoletti, **S. Luo**. IEEE Robotics and Automation Letters, 6(2), pp.4177-4184. & The International Conference on Robotics and Automation (ICRA) 2021. <br />
@@ -42,4 +42,6 @@ D.F. Gomes, P. Paoletti, **S. Luo**. IEEE Robotics and Automation Letters, 6(2),
 
 
 
-# Document Analysis
+# AI4Culture
+
+# Embodied AI
