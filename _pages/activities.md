@@ -9,13 +9,13 @@ author_profile: true
 
 # Talks
 
-- Given a talk about xxx at xxx, 2024.
+- Large Models for Math Reasoning: Data, Methodology and Evaluation, 2025.7, Lanzhou, 2025 CSIG-DIAR Committee Annual Meeting.
 
 
 # Conference General Chair
 
 - BICS 2025: 15th International Conference on Brain Inspired Cognitive Systems. [BICS 2025 Website](https://bics-ai.org)
 
-# Program Chair
+# Organizing Chair
 
 - M3RD: Multi-Modal Mathematical Reasoning in Documents. Workshop in conjunction with ICDAR 2025. [M3RD Website](https://nlpr.ia.ac.cn/pal/Activities/M3RD.html)
