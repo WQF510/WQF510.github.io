@@ -27,7 +27,9 @@ See full publications at my [Google Scholar](https://scholar.google.com/citation
 3.	Huiru Shao, Kaizhu Huang, Wei Wang, Xiaowei Huang, **Qiufeng Wang***, Towards Better Robustness Against Natural Corruptions in Document Tampering Localization, AAAI 2025 (oral)
 4.	Xiaoqiang Kang, Zimu Wang, Xiaobo Jin, Wei Wang, Kaizhu Huang, **Qiufeng Wang***, Template-Driven LLM-Paraphrased Framework for Tabular Math Word Problem Generation, AAAI 2025.
 5.	Yijie Hu, Guanyu Yang, Zhaorui Tan, Xiaowei Huang, Kaizhu Huang, **Qiufeng Wang***, Covariance-based Space Regularization for Few-shot Class Incremental Learning, WACV 2025
-6. Xiaoqiang Kang, Shengen Wu, Zimu Wang, Yilin Liu, Xiaobo Jin, Kaizhu Huang, Wei Wang, Yutao Yue, Xiaowei Huang, **Qiufeng Wang***, Can GRPO Boost Complex Multimodal Table Reasoning?, EMNLP 2025.
+6.  Xiaoqiang Kang, Shengen Wu, Zimu Wang, Yilin Liu, Xiaobo Jin, Kaizhu Huang, Wei Wang, Yutao Yue, Xiaowei Huang, **Qiufeng Wang***, Can GRPO Boost Complex Multimodal Table Reasoning?, EMNLP 2025.
+7.  Yijie Hu, Zihao Zhou, Kaizhu Huang, Xiaowei Huang, **Qiufeng Wang**, Can MLLMs Absorb Math Reasoning Abilities from LLMs as Free Lunch?, NeurIPS 2025.
+
 
 
 # 2024
