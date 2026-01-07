@@ -33,12 +33,12 @@ See full publications at my [Google Scholar](https://scholar.google.com/citation
 8.  Weiguang Zhao, Rui Zhang, **Qiufeng Wang**, Guangliang Cheng, Kaizhu Huang, Weiguang Zhao, BFANet: Revisiting 3D Semantic Segmentation with Boundary Feature Analysis, CVPR 2025
 9.  Changwei Li, Guangping Huang, Zihao Zhou, and **Qiufeng Wang***, Long Math Reasoning Problem Generation, ICDAR 2025 on M3RD workshop
 10. Junyi Yuan, Jian Zhang, Dongming Lu, Huanda Lu, **Qiufeng Wang***, Fangyu Wu, Towards Cross-modal Retrieval in Chinese Cultural Heritage Documents: Dataset and Solution, ICDAR 2025
-11. Hetao Wu, Kunchi Li, Xuyao Zhang, Qiufeng Wang, Dahan Wang, OracleGCD: Generalized Category Discovery for Oracle Bone Scripts, ICDAR 2025
-12. Junyi Guo, Jingxuan Zhang, Fangyu Wu, Huanda Lu, Qiufeng Wang, Wenmian Yang, ENG GEE LIM, Dongming Lu, HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image, ICCV 2025
-13. Zhaorui Tan, Xi Yang, Tan Pan, Tianyi Liu, Chen Jiang, Xin Guo, Qiufeng Wang, Anh Nguyen, Yuan Qi, Kaizhu Huang, Yuan Cheng, Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation, ICCV 2025
-14. Jian Zhang, Junyi Guo, Junyi Yuan, Huanda Lu, Yanlin Zhou, Fangyu Wu, Qiufeng Wang, Dongming Lu, LLM-Driven Completeness and Consistency Evaluation for Cultural Heritage Data Augmentation in Cross-Modal Retrieval, EMNLP 2025
+11. Hetao Wu, Kunchi Li, Xuyao Zhang, **Qiufeng Wang**, Dahan Wang, OracleGCD: Generalized Category Discovery for Oracle Bone Scripts, ICDAR 2025
+12. Junyi Guo, Jingxuan Zhang, Fangyu Wu, Huanda Lu, **Qiufeng Wang**, Wenmian Yang, ENG GEE LIM, Dongming Lu, HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image, ICCV 2025
+13. Zhaorui Tan, Xi Yang, Tan Pan, Tianyi Liu, Chen Jiang, Xin Guo, **Qiufeng Wang**, Anh Nguyen, Yuan Qi, Kaizhu Huang, Yuan Cheng, Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation, ICCV 2025
+14. Jian Zhang, Junyi Guo, Junyi Yuan, Huanda Lu, Yanlin Zhou, Fangyu Wu, **Qiufeng Wang**, Dongming Lu, LLM-Driven Completeness and Consistency Evaluation for Cultural Heritage Data Augmentation in Cross-Modal Retrieval, EMNLP 2025
 15. Weiguang Zhang, Huangcheng Lu, Maizhen Ning, Xiaowei Huang, Wei Wang, Kaizhu Huang, **Qiufeng Wang***, DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model, SIGGRAPH Asia 2025
-16. Yiming Lin, Yuchen Niu, Shang Wang, Kaizhu Huang, Qiufeng Wang, Xiao-Bo Jin, The Demon is in Ambiguity: Revisiting Situation Recognition with Single Positive Multi-Label Learning, ICDM 2025
+16. Yiming Lin, Yuchen Niu, Shang Wang, Kaizhu Huang, **Qiufeng Wang**, Xiao-Bo Jin, The Demon is in Ambiguity: Revisiting Situation Recognition with Single Positive Multi-Label Learning, ICDM 2025
 
 
 # 2024
