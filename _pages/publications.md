@@ -16,10 +16,11 @@ See full publications at my [Google Scholar](https://scholar.google.com/citation
 
 # 2025
 ## Journal Papers
-1.	Jing Li, Xueke Chi, Kaizhu Huang, Da-Han Wang, **Qiufeng Wang***, Chenglin Liu, Yongge Liu, A comprehensive survey of oracle character recognition: challenges, datasets, methodology, and beyond, Pattern Recognition 2025
-2.	Jiajian Zhang, Fangyu Wu, Hai Jiang, **Qiufeng Wang**, Genlang Chen, Guangliang Cheng, Eng Gee Lim, Keqin Li, AlignMalloc: Warp-Aware Memory Rearrangement Aligned with UVM Prefetching for Large-Scale GPU Dynamic Allocations, IEEE Transactions on Parallel and Distributed Systems, 2025
-3.	Hui Xu, **Qiufeng Wang**, Zhenghao Li, Yu Shi,Xiang-Dong Zhou. TextTriangle: an end-to-end textspotter with piecewise linear alignment. IJDAR (2025)
-4.	Xiaojiang He, Yanjie Fang, Nan Xiang, Zuhe Li, **Qiufeng Wang**, Chenguang Yang, Hao Wang, Yushan Pan, Text-Guided Multi-Level Interaction and Multi-Scale Spatial-Memory Fusion for Multimodal Sentiment Analysis, Neurocomputing, Volume 626, 2025, 129532.
+1.	Yijie Hu, Kaizhu Huang, Wei Wang, Xiaowei Huang, **Qiufeng Wang***, You Look from Old Classes: Towards Accurate Few Shot Class-Incremental Learning, Pattern Recognition 2025
+2.	Jing Li, Xueke Chi, Kaizhu Huang, Da-Han Wang, **Qiufeng Wang***, Chenglin Liu, Yongge Liu, A comprehensive survey of oracle character recognition: challenges, datasets, methodology, and beyond, Pattern Recognition 2025
+3.	Jiajian Zhang, Fangyu Wu, Hai Jiang, **Qiufeng Wang**, Genlang Chen, Guangliang Cheng, Eng Gee Lim, Keqin Li, AlignMalloc: Warp-Aware Memory Rearrangement Aligned with UVM Prefetching for Large-Scale GPU Dynamic Allocations, IEEE Transactions on Parallel and Distributed Systems, 2025
+4.	Hui Xu, **Qiufeng Wang**, Zhenghao Li, Yu Shi,Xiang-Dong Zhou. TextTriangle: an end-to-end textspotter with piecewise linear alignment. IJDAR (2025)
+5.	Xiaojiang He, Yanjie Fang, Nan Xiang, Zuhe Li, **Qiufeng Wang**, Chenguang Yang, Hao Wang, Yushan Pan, Text-Guided Multi-Level Interaction and Multi-Scale Spatial-Memory Fusion for Multimodal Sentiment Analysis, Neurocomputing, Volume 626, 2025, 129532.
 
 ## Conference Papers
 1. Zihao Zhou, Shudong Liu, Maizhen Ning, Wei Liu, Jindong Wang, Derek F. Wong, Xiaowei Huang, **Qiufeng Wang***, Kaizhu Huang, Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist, ICLR 2025.
@@ -28,8 +29,16 @@ See full publications at my [Google Scholar](https://scholar.google.com/citation
 4.	Xiaoqiang Kang, Zimu Wang, Xiaobo Jin, Wei Wang, Kaizhu Huang, **Qiufeng Wang***, Template-Driven LLM-Paraphrased Framework for Tabular Math Word Problem Generation, AAAI 2025.
 5.	Yijie Hu, Guanyu Yang, Zhaorui Tan, Xiaowei Huang, Kaizhu Huang, **Qiufeng Wang***, Covariance-based Space Regularization for Few-shot Class Incremental Learning, WACV 2025
 6.  Xiaoqiang Kang, Shengen Wu, Zimu Wang, Yilin Liu, Xiaobo Jin, Kaizhu Huang, Wei Wang, Yutao Yue, Xiaowei Huang, **Qiufeng Wang***, Can GRPO Boost Complex Multimodal Table Reasoning?, EMNLP 2025.
-7.  Yijie Hu, Zihao Zhou, Kaizhu Huang, Xiaowei Huang, **Qiufeng Wang**, Can MLLMs Absorb Math Reasoning Abilities from LLMs as Free Lunch?, NeurIPS 2025.
-
+7.  Yijie Hu, Zihao Zhou, Kaizhu Huang, Xiaowei Huang, **Qiufeng Wang***, Can MLLMs Absorb Math Reasoning Abilities from LLMs as Free Lunch?, NeurIPS 2025.
+8.  Weiguang Zhao, Rui Zhang, **Qiufeng Wang**, Guangliang Cheng, Kaizhu Huang, Weiguang Zhao, BFANet: Revisiting 3D Semantic Segmentation with Boundary Feature Analysis, CVPR 2025
+9.  Changwei Li, Guangping Huang, Zihao Zhou, and **Qiufeng Wang***, Long Math Reasoning Problem Generation, ICDAR 2025 on M3RD workshop
+10. Junyi Yuan, Jian Zhang, Dongming Lu, Huanda Lu, **Qiufeng Wang***, Fangyu Wu, Towards Cross-modal Retrieval in Chinese Cultural Heritage Documents: Dataset and Solution, ICDAR 2025
+11. Hetao Wu, Kunchi Li, Xuyao Zhang, Qiufeng Wang, Dahan Wang, OracleGCD: Generalized Category Discovery for Oracle Bone Scripts, ICDAR 2025
+12. Junyi Guo, Jingxuan Zhang, Fangyu Wu, Huanda Lu, Qiufeng Wang, Wenmian Yang, ENG GEE LIM, Dongming Lu, HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image, ICCV 2025
+13. Zhaorui Tan, Xi Yang, Tan Pan, Tianyi Liu, Chen Jiang, Xin Guo, Qiufeng Wang, Anh Nguyen, Yuan Qi, Kaizhu Huang, Yuan Cheng, Towards a Universal 3D Medical Multi-modality Generalization via Learning Personalized Invariant Representation, ICCV 2025
+14. Jian Zhang, Junyi Guo, Junyi Yuan, Huanda Lu, Yanlin Zhou, Fangyu Wu, Qiufeng Wang, Dongming Lu, LLM-Driven Completeness and Consistency Evaluation for Cultural Heritage Data Augmentation in Cross-Modal Retrieval, EMNLP 2025
+15. Weiguang Zhang, Huangcheng Lu, Maizhen Ning, Xiaowei Huang, Wei Wang, Kaizhu Huang, **Qiufeng Wang***, DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model, SIGGRAPH Asia 2025
+16. Yiming Lin, Yuchen Niu, Shang Wang, Kaizhu Huang, Qiufeng Wang, Xiao-Bo Jin, The Demon is in Ambiguity: Revisiting Situation Recognition with Single Positive Multi-Label Learning, ICDM 2025
 
 
 # 2024
