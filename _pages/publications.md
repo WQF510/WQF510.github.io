@@ -168,6 +168,8 @@ See full publications at my [Google Scholar](https://scholar.google.com/citation
 26.	**Qiufeng Wang**, Fei Yin, Cheng-Lin Liu, Integrating language model in handwriting Chinese text recognition, Proc. 10th ICDAR, pp. 1036-1040, 2009 (Oral).
 27.	Fei Yin, **Qiufeng Wang**, Cheng-Lin Liu, A tool for ground-truthing text lines and characters in off-line handwritten Chinese documents, Proc. 10th ICDAR, pp.951-955, 2009. 
 
+# Edited Book
+1. Kaizhu Huang, Amir Hussain, **Qiufeng Wang**, Rui Zhang, Deep Learning: Fundamentals, Theory, and Applications, Springer, 2019.
 
 # Book Chapters
 1.	Tonghua Su, Li Sun, **Qiufeng Wang**, Da-Han Wang, Deep RNN Architecture: Design and Evaluation, Chapter 2 in Deep Learning: Fundamentals, Theory, and Applications, Springer, 2019.
